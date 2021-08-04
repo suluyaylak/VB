@@ -1,2 +1,2 @@
 # VBRichtextbox
-Richtextbox çalışması, yazikutusu.dll debug klasöründe mevcuttur.
+yazikutusu.dll debug klasöründe mevcuttur.
