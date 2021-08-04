@@ -1,0 +1,14 @@
+D:\Prg\YaziDuzenleyici\bin\Debug\YaziDuzenleyici.exe
+D:\Prg\YaziDuzenleyici\bin\Debug\YaziDuzenleyici.pdb
+D:\Prg\YaziDuzenleyici\bin\Debug\YaziDuzenleyici.xml
+D:\Prg\YaziDuzenleyici\bin\Debug\yazikutusu.dll
+D:\Prg\YaziDuzenleyici\bin\Debug\yazikutusu.pdb
+D:\Prg\YaziDuzenleyici\bin\Debug\yazikutusu.xml
+D:\Prg\YaziDuzenleyici\obj\x86\Debug\YaziDuzenleyici.frmInsertSymbol.resources
+D:\Prg\YaziDuzenleyici\obj\x86\Debug\YaziDuzenleyici.Resources.resources
+D:\Prg\YaziDuzenleyici\obj\x86\Debug\YaziDuzenleyici.YaziDuzen.resources
+D:\Prg\YaziDuzenleyici\obj\x86\Debug\YaziDuzenleyici.vbproj.GenerateResource.Cache
+D:\Prg\YaziDuzenleyici\obj\x86\Debug\YaziDuzenleyici.exe
+D:\Prg\YaziDuzenleyici\obj\x86\Debug\YaziDuzenleyici.xml
+D:\Prg\YaziDuzenleyici\obj\x86\Debug\YaziDuzenleyici.pdb
+D:\Prg\YaziDuzenleyici\obj\x86\Debug\YaziDuzenleyici.vbprojResolveAssemblyReference.cache

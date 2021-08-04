@@ -1,0 +1,132 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+YaziDuzenleyici
+</name>
+</assembly>
+<members>
+<member name="P:YaziDuzenleyici.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:YaziDuzenleyici.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:YaziDuzenleyici.My.Resources.Resources.altsimge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:YaziDuzenleyici.My.Resources.Resources.basliklogo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:YaziDuzenleyici.My.Resources.Resources.dikey">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:YaziDuzenleyici.My.Resources.Resources.disk">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:YaziDuzenleyici.My.Resources.Resources.disk2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:YaziDuzenleyici.My.Resources.Resources.dosyaac">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:YaziDuzenleyici.My.Resources.Resources.girinti">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:YaziDuzenleyici.My.Resources.Resources.ikiyanayasla">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:YaziDuzenleyici.My.Resources.Resources.maddeimi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:YaziDuzenleyici.My.Resources.Resources.ortala">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:YaziDuzenleyici.My.Resources.Resources.paragaltciz">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:YaziDuzenleyici.My.Resources.Resources.paragcizyok">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:YaziDuzenleyici.My.Resources.Resources.paragsagciz">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:YaziDuzenleyici.My.Resources.Resources.paragsolciz">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:YaziDuzenleyici.My.Resources.Resources.paragtumciz">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:YaziDuzenleyici.My.Resources.Resources.paragustciz">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:YaziDuzenleyici.My.Resources.Resources.sagayas">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:YaziDuzenleyici.My.Resources.Resources.sayfaayr">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:YaziDuzenleyici.My.Resources.Resources.simgeyok">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:YaziDuzenleyici.My.Resources.Resources.smg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:YaziDuzenleyici.My.Resources.Resources.solayas">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:YaziDuzenleyici.My.Resources.Resources.tabloek">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:YaziDuzenleyici.My.Resources.Resources.ustsimge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:YaziDuzenleyici.My.Resources.Resources.yatay">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:YaziDuzenleyici.My.Resources.Resources.yazdir">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:YaziDuzenleyici.My.Resources.Resources.yazici">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:YaziDuzenleyici.My.Resources.Resources.Yeni_Logo_Küçük">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:YaziDuzenleyici.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
