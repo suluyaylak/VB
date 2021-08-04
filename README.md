@@ -1,2 +1,2 @@
 # VB
-Richtextbox çalışması
+Richtextbox çalışması, yazikutusu.dll debug klasöründe mevcuttur.
